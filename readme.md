@@ -41,7 +41,7 @@ function name(params) {
 console.log(name([1,2,3]));
 ```
 ___
-# Method unshift
+# Method shift
 ``` Javascript
 function name(params) {
     return params,array.shift() => {
@@ -51,7 +51,7 @@ function name(params) {
 console.log(name([1,2,3]));
 ```
 ___
-# Method unshift
+# Method toString
 ``` Javascript
 function name(params) {
     return params,array.toString(4,5) => {
@@ -61,7 +61,7 @@ function name(params) {
 console.log(name([1,2,3]));
 ```
 ___
-# Method unshift
+# Method splice
 ``` Javascript
 function name(params) {
     return params,array.splice(1,1, "any element") => {
